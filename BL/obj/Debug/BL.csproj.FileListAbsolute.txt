@@ -1,0 +1,15 @@
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\BL.dll
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\BL.pdb
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\obj\Debug\BL.dll
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\obj\Debug\BL.pdb
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\BL.dll.config
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\EntityFramework.dll
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\Model.dll
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\Model.pdb
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\Model.dll.config
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\EntityFramework.xml
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pini Zolberg\Desktop\WebApplication1\BL\obj\Debug\BL.csproj.CopyComplete
